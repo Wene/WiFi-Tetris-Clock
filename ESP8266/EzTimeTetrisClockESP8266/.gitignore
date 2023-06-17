@@ -1,4 +1,4 @@
 .pio
 /platformio.*
 !/platformio.ini
-
+/.qtc_clangd
